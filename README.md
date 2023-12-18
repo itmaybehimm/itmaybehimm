@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itmaybehimm
-- 👀 I’m interested in Game development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Mahine Learning
 -  📫 How to reach me  himansupradhan944@gmail.com
 
 <!---
